@@ -20,7 +20,7 @@
         <jooq.version>3.12.3</jooq.version>
         <postgresql.version>42.2.6</postgresql.version>
         <druid.version>1.0.18</druid.version>
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
